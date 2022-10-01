@@ -1,0 +1,46 @@
+h1 {color: white;
+    text-align: center;
+}
+h6 {text-align: center;
+    color: white;
+}
+
+        .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+      }
+    
+      .firstsection {background-color: #3D3D3D;
+    text-align: center;
+     color: white;
+    } 
+      
+      body {
+        background-color: #c0c0c0;
+      }
+.experience {
+    background-color: #3D3D3D;
+    color: white;
+}
+
+.education {
+    background-color: #3D3D3D;
+    color: white;
+}
+
+.course {
+    background-color: #3D3D3D;
+    color: white;
+}
+
+.describe {
+    background-color: #3D3D3D;
+    color: white;
+    p {text-align: center;}
+}
+
+a {
+    color: white;
+}
